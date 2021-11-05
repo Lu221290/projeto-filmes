@@ -1,0 +1,17 @@
+.not-fond{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.not-fond h1{
+    font-size: 100px;
+}
+
+.not-fond a{
+    text-decoration: none;
+    color: #fff;
+    background-color: brown;
+    padding: 10px;
+}
